@@ -1,0 +1,4 @@
+include ':lintlibrary'
+include ':app'
+include ':lint_rules'
+rootProject.name = "LintCustomRuleSample"
